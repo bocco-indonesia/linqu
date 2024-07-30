@@ -146,19 +146,19 @@
         <h1>API Request Form</h1>
         <form action="process_request.php" method="post">
             <label for="client-id">Client ID:</label>
-            <input type="text" id="client-id" name="client-id" value="33d11cb6-69da-45c6-a5c3-948ee10c6927">
+            <input type="text" id="client-id" name="client-id" value="your client id">
 
             <label for="client-secret">Client Secret:</label>
-            <input type="text" id="client-secret" name="client-secret" value="QXKN8AkpqbPcH18CM7aSsEIUh">
+            <input type="text" id="client-secret" name="client-secret" value="your client secret">
 
             <label for="username">Username:</label>
-            <input type="text" id="username" name="username" value="LI531GQBT">
+            <input type="text" id="username" name="username" value="your username">
 
             <label for="pin">PIN:</label>
-            <input type="text" id="pin" name="pin" value="JXPE9LHfOdqcx7r">
+            <input type="text" id="pin" name="pin" value="your pin">
 
             <label for="signkey">Signature key:</label>
-            <input type="text" id="signkey" name="signkey" value="OscgqW04Cpsm5E3YT3Z4xgqZ">
+            <input type="text" id="signkey" name="signkey" value=" server key or signature key">
 
             <label for="bank-code">Bank Code:</label>
             <select id="bank-code" name="bank-code">
